@@ -34,8 +34,8 @@ display:inline-block;
 
 li
 {   
-float:left;
-display:inline-block;
+margin: auto;
+display:block;
 }
 
 .nav 
