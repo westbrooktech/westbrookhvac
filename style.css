@@ -12,10 +12,9 @@
   text-align: center;
 }
 
-a:link    { color: #8b008b;  }
-a:visited { color: #872657;   }
-a:hover   { color: #9932cc; }
-a:active  { color: #e75480;  }
+:link { color: #0000EE; }
+:visited { color: #551A8B; }
+:link:active, :visited:active { color: #FF0000; }
 
 body {
   background-color: white;
