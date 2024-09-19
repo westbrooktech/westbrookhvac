@@ -34,6 +34,7 @@ display:inline-block;
 
 li
 {   
+font: roboto;
 margin: auto;
 display:block;
 }
