@@ -1,2 +1,4 @@
-# Thinking-Place
-So this is a project I'm working on for my girlfriend. She wants a website for writing creativity. It's not close to being completed, but I have uploaded what I have so far here so she can load the url on different devices and see what needs to be added or changed.
+# Westbrook Heating and Cooling LLC
+This is contractor website for "Westbrook Heating and Cooling LLC".
+Features will include getting a free quote, scheduling/canceling/re-scheduling/confirming appointments, FAQ, Contact Us, and About Us.
+Changes will be made periodically.
