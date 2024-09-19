@@ -59,40 +59,7 @@ padding-bottom:4px;
 padding-left:5px;
 text-decoration:none;
 text-align:center;
-background-color:#006b00;
-color:white;
 font-weight:bold;
-float:left;
 }
 
-a:hover, a:active
-{
-background-color:#C0C0C0;
-}
 
-a:active
-{
-color:grey;
-}
-
-.nav_bar_text
-{
-font-size:17px;
-}
-
-.Mackin_text
-{
-font-size:17px;
-vertical-align:text-center;
-}
-
-h1
-{
-text-decoration:underline;
-color:#006b00;
-}
-
-p
-{
-font-size:30px;
-}
