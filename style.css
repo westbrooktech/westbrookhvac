@@ -16,6 +16,8 @@
 :link:active, :visited:active { color: #FF0000; }
 
 body {
+  background-image: url(fireandice.jpeg);
+  background-size: cover;
   background-color: white;
 }
 
