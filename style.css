@@ -9,7 +9,6 @@
   box-sizing: border-box;
   margin: 8px;
   padding: 2px;
-  text-align: center;
 }
 
 :link { color: #0000EE; }
@@ -20,8 +19,9 @@ body {
   background-color: white;
 }
 
-h1, p, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
   color: black;
+  text-align: center;
 }
 
 .navbar
@@ -32,11 +32,11 @@ height:30px;
 display:inline-block;
 }
 
-li
-{   
+li, p, ul, ol {   
 font: roboto;
 margin: auto;
 display:block;
+text-align: left;
 }
 
 .nav 
