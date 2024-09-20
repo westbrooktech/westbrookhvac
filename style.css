@@ -63,10 +63,6 @@ font-weight:bold;
 }
 
 p {
-  position: center;
-}
-
-body {
   Display: flex; 
   Justify-content: center; 
   Align-items: center;
