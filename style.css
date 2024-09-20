@@ -16,7 +16,16 @@
 :link:active, :visited:active { color: #FF0000; }
 
 body {
-  background-color: black;
+  display: block;
+  background-image: url(fireandice.jpeg);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom:auto;
+  margin: auto;
+  height: 100%;
+  width: 100%;
+  background-color: white;
 }
 
 h1, h2, h3, h4, h5, h6 {
