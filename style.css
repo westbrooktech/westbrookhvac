@@ -62,7 +62,6 @@ text-align:center;
 font-weight:bold;
 }
 
-p {
-  Display: flex; 
+p { 
   Justify-content: center; 
 }
