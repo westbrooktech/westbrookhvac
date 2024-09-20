@@ -7,8 +7,6 @@
 
 * {
   box-sizing: border-box;
-  margin: 8px;
-  padding: 2px;
 }
 
 :link { color: #0000EE; }
@@ -16,17 +14,24 @@
 :link:active, :visited:active { color: #FF0000; }
 
 body {
-  display: block;
-  background-image: url(fireandice.jpeg);
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: auto;
-  margin-bottom:auto;
-  margin: auto;
-  height: 100%;
-  width: 100%;
-  background-color: white;
+  margin: 0;
 }
+
+.content {
+  background: white;
+  padding: 15px;
+  border-radius: 3px;
+}
+
+.image {
+  min-height: 100vh;
+  background-image: url(techimage.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 30px;
+}
+
+
 
 h1, h2, h3, h4, h5, h6 {
   color: white;
