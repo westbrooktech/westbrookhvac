@@ -32,7 +32,7 @@ height:30px;
 display:inline-block;
 }
 
-li, p, ul, ol {   
+.left {   
 font: roboto;
 margin: auto;
 display:block;
